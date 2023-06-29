@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "188068081997",
+    "project_id": "datashop-c5642",
+    "storage_bucket": "datashop-c5642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188068081997:android:e90a54ed447a1e11b6c704",
+        "android_client_info": {
+          "package_name": "com.example.applaptop_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188068081997-53m3ltb1fr610jm5s9pg270tvu72t947.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNU5-aDU2qKof5GF8Zk3xs0jJXL5ZG5c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188068081997-53m3ltb1fr610jm5s9pg270tvu72t947.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
